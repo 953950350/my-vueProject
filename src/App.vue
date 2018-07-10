@@ -5,7 +5,7 @@
 
         
         <!-- 中间content区域 -->
-
+        <div>content</div>
         <!-- 底部区域 -->
         <nav class="mui-bar mui-bar-tab">
 			<a class="mui-tab-item mui-active" href="#tabbar">
