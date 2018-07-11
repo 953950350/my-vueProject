@@ -11,10 +11,10 @@
 
         <!-- 底部tabbar区域 -->
         <nav class="mui-bar mui-bar-tab">
-			<router-link class="mui-tab-item" to="/home">
-				<span class="mui-icon mui-icon-home"></span>
-				<span class="mui-tab-label">首页</span>
-			</router-link>
+			  <router-link class="mui-tab-item" to="/home">
+				    <span class="mui-icon mui-icon-home"></span>
+				    <span class="mui-tab-label">首页</span>
+			  </router-link>
 			<router-link class="mui-tab-item" to="/member">
 				<span class="mui-icon mui-icon-contact"></span>
 				<span class="mui-tab-label">会员</span>
@@ -32,11 +32,14 @@
 </template>
 
 <script>
+
 </script>
 
 <style lang="less" scoped>
+
 .app-container {
   padding-top: 40px;
+  padding-bottom: 50px;
   overflow-x: hidden;
 }
 .content-enter {
